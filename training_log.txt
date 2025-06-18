@@ -8,3 +8,4 @@ Code Review Agent Training Log
 [2025-06-16 13:11:58] Refined prompt heuristics for better bug detection
 [2025-06-17 11:05:59] Initial prototype of review agent
 [2025-06-17 11:59:11] Updated README with better examples
+[2025-06-18 20:48:39] Refined prompt heuristics for better bug detection
