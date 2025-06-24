@@ -19,3 +19,4 @@ Code Review Agent Training Log
 [2025-06-19 14:55:44] Added support for multi-directory scanning
 [2025-06-19 12:32:28] Optimized file parsing logic
 [2025-06-24 17:59:25] Cleanup of redundant imports
+[2025-06-24 08:17:24] Integrated logging framework
