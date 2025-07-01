@@ -46,3 +46,4 @@ Code Review Agent Training Log
 [2025-06-30 11:11:47] Updated README with better examples
 [2025-06-30 13:08:41] Minor UI tweaks to console output
 [2025-07-01 11:10:48] Minor UI tweaks to console output
+[2025-07-01 08:54:25] Integrated logging framework
