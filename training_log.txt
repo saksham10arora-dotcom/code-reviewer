@@ -52,3 +52,4 @@ Code Review Agent Training Log
 [2025-07-01 13:38:37] Trained local cache on sample repo
 [2025-07-02 21:02:55] Upgraded dependencies in requirements.txt
 [2025-07-02 11:42:27] Synchronized environment variables
+[2025-07-02 17:01:09] Integrated logging framework
