@@ -67,3 +67,4 @@ Code Review Agent Training Log
 [2025-07-08 14:21:32] Trained local cache on sample repo
 [2025-07-08 12:08:40] Refined prompt heuristics for better bug detection
 [2025-07-08 21:13:11] Minor UI tweaks to console output
+[2025-07-08 15:10:46] Refined prompt heuristics for better bug detection
