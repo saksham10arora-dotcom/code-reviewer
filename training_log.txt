@@ -70,3 +70,4 @@ Code Review Agent Training Log
 [2025-07-08 15:10:46] Refined prompt heuristics for better bug detection
 [2025-07-08 12:16:01] Enhanced security check patterns
 [2025-07-08 10:46:01] Fixed minor typo in reviewer output
+[2025-07-09 14:52:24] Integrated logging framework
