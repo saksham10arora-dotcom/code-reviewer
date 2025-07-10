@@ -84,3 +84,4 @@ Code Review Agent Training Log
 [2025-07-09 10:06:41] Added support for multi-directory scanning
 [2025-07-09 17:30:08] Adjusted temperature for model responses
 [2025-07-10 13:13:49] Updated README with better examples
+[2025-07-10 12:01:20] Added unit tests for parser
