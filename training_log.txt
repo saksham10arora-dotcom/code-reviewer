@@ -99,3 +99,4 @@ Code Review Agent Training Log
 [2025-07-15 20:54:16] Updated README with better examples
 [2025-07-15 12:52:13] Cleanup of redundant imports
 [2025-07-15 22:14:42] Integrated logging framework
+[2025-07-15 08:39:40] Added support for multi-directory scanning
