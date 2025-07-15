@@ -94,3 +94,4 @@ Code Review Agent Training Log
 [2025-07-14 10:40:55] Trained local cache on sample repo
 [2025-07-14 17:48:26] Improved error handling for large files
 [2025-07-14 08:47:09] Minor UI tweaks to console output
+[2025-07-15 22:46:24] Integrated logging framework
