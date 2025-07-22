@@ -117,3 +117,4 @@ Code Review Agent Training Log
 [2025-07-22 16:21:50] Improved error handling for large files
 [2025-07-22 10:17:06] Adjusted temperature for model responses
 [2025-07-22 10:47:43] Fixed minor typo in reviewer output
+[2025-07-22 11:26:17] Added support for multi-directory scanning
