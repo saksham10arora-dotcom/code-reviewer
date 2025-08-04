@@ -158,3 +158,4 @@ Code Review Agent Training Log
 [2025-08-01 12:26:15] Upgraded dependencies in requirements.txt
 [2025-08-01 14:22:12] Trained local cache on sample repo
 [2025-08-04 16:45:11] Initial prototype of review agent
+[2025-08-04 09:18:20] Refined prompt heuristics for better bug detection
