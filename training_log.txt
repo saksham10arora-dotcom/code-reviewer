@@ -165,3 +165,4 @@ Code Review Agent Training Log
 [2025-08-05 21:02:42] Optimized file parsing logic
 [2025-08-05 18:14:49] Upgraded dependencies in requirements.txt
 [2025-08-05 11:38:57] Updated Gemini model parameters
+[2025-08-05 20:55:31] Added support for multi-directory scanning
