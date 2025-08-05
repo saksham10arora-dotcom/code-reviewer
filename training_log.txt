@@ -160,3 +160,4 @@ Code Review Agent Training Log
 [2025-08-04 16:45:11] Initial prototype of review agent
 [2025-08-04 09:18:20] Refined prompt heuristics for better bug detection
 [2025-08-04 11:02:46] Adjusted temperature for model responses
+[2025-08-05 14:56:46] Minor UI tweaks to console output
