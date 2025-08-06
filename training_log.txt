@@ -169,3 +169,4 @@ Code Review Agent Training Log
 [2025-08-06 14:05:36] Refactored internal review loop
 [2025-08-06 21:35:38] Added unit tests for parser
 [2025-08-06 18:17:41] Updated README with better examples
+[2025-08-06 10:51:51] Improved error handling for large files
