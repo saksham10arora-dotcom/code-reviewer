@@ -168,3 +168,4 @@ Code Review Agent Training Log
 [2025-08-05 20:55:31] Added support for multi-directory scanning
 [2025-08-06 14:05:36] Refactored internal review loop
 [2025-08-06 21:35:38] Added unit tests for parser
+[2025-08-06 18:17:41] Updated README with better examples
