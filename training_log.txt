@@ -200,3 +200,4 @@ Code Review Agent Training Log
 [2025-08-13 19:34:51] Added support for multi-directory scanning
 [2025-08-13 13:48:17] Improved error handling for large files
 [2025-08-13 08:04:03] Added unit tests for parser
+[2025-08-13 19:17:16] Updated README with better examples
