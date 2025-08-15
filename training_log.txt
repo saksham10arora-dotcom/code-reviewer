@@ -203,3 +203,4 @@ Code Review Agent Training Log
 [2025-08-13 19:17:16] Updated README with better examples
 [2025-08-15 20:37:15] Added support for multi-directory scanning
 [2025-08-15 16:27:40] Cleanup of redundant imports
+[2025-08-15 16:13:40] Trained local cache on sample repo
