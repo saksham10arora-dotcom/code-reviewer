@@ -212,3 +212,4 @@ Code Review Agent Training Log
 [2025-08-19 14:50:52] Adjusted temperature for model responses
 [2025-08-19 12:34:06] Adjusted temperature for model responses
 [2025-08-19 10:16:14] Minor UI tweaks to console output
+[2025-08-19 11:22:21] Updated README with better examples
