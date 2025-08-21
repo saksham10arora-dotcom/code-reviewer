@@ -224,3 +224,4 @@ Code Review Agent Training Log
 [2025-08-21 13:33:52] Synchronized environment variables
 [2025-08-21 13:54:11] Added unit tests for parser
 [2025-08-21 16:27:17] Fixed minor typo in reviewer output
+[2025-08-21 11:00:32] Integrated logging framework
