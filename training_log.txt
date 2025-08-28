@@ -246,3 +246,4 @@ Code Review Agent Training Log
 [2025-08-27 18:37:00] Trained local cache on sample repo
 [2025-08-27 15:21:12] Synchronized environment variables
 [2025-08-27 21:27:45] Initial prototype of review agent
+[2025-08-28 11:19:52] Updated README with better examples
