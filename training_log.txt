@@ -252,3 +252,4 @@ Code Review Agent Training Log
 [2025-08-28 18:48:28] Upgraded dependencies in requirements.txt
 [2025-08-29 18:50:05] Integrated logging framework
 [2025-08-29 11:09:06] Fixed minor typo in reviewer output
+[2025-08-30 08:47:19] Documented API requirements
