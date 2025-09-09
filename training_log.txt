@@ -273,3 +273,4 @@ Code Review Agent Training Log
 [2025-09-09 19:29:22] Enhanced security check patterns
 [2025-09-09 18:21:39] Upgraded dependencies in requirements.txt
 [2025-09-09 20:54:36] Trained local cache on sample repo
+[2025-09-09 13:17:36] Minor UI tweaks to console output
