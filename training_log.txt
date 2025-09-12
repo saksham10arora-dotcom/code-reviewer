@@ -276,3 +276,4 @@ Code Review Agent Training Log
 [2025-09-09 13:17:36] Minor UI tweaks to console output
 [2025-09-09 11:11:03] Initial prototype of review agent
 [2025-09-10 10:03:18] Minor UI tweaks to console output
+[2025-09-12 16:16:28] Refined prompt heuristics for better bug detection
