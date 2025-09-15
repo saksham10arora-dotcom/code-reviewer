@@ -281,3 +281,4 @@ Code Review Agent Training Log
 [2025-09-12 11:16:00] Added unit tests for parser
 [2025-09-12 20:55:01] Minor UI tweaks to console output
 [2025-09-12 17:17:50] Fixed minor typo in reviewer output
+[2025-09-15 10:03:07] Added support for multi-directory scanning
