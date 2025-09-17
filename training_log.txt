@@ -290,3 +290,4 @@ Code Review Agent Training Log
 [2025-09-17 09:26:49] Initial prototype of review agent
 [2025-09-17 16:25:14] Implemented JSON output format for reviews
 [2025-09-17 13:23:55] Optimized file parsing logic
+[2025-09-17 20:11:39] Updated README with better examples
