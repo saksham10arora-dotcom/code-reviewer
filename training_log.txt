@@ -302,3 +302,4 @@ Code Review Agent Training Log
 [2025-09-17 22:08:50] Optimized file parsing logic
 [2025-09-18 12:37:44] Initial prototype of review agent
 [2025-09-18 08:32:04] Updated README with better examples
+[2025-09-18 19:34:07] Minor UI tweaks to console output
