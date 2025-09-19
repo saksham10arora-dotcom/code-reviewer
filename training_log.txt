@@ -306,3 +306,4 @@ Code Review Agent Training Log
 [2025-09-18 22:19:38] Fixed minor typo in reviewer output
 [2025-09-19 15:24:37] Improved error handling for large files
 [2025-09-19 18:22:14] Updated README with better examples
+[2025-09-19 21:01:18] Added support for multi-directory scanning
