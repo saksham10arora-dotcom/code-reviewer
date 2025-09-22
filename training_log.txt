@@ -310,3 +310,4 @@ Code Review Agent Training Log
 [2025-09-20 16:48:59] Updated README with better examples
 [2025-09-20 10:13:28] Adjusted temperature for model responses
 [2025-09-22 13:31:21] Initial prototype of review agent
+[2025-09-22 17:37:08] Improved error handling for large files
