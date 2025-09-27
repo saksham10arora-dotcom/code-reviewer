@@ -324,3 +324,4 @@ Code Review Agent Training Log
 [2025-09-26 17:15:20] Refactored internal review loop
 [2025-09-26 10:30:20] Initial prototype of review agent
 [2025-09-26 12:08:47] Added support for multi-directory scanning
+[2025-09-27 14:12:11] Added unit tests for parser
