@@ -327,3 +327,4 @@ Code Review Agent Training Log
 [2025-09-27 14:12:11] Added unit tests for parser
 [2025-09-28 09:44:07] Fixed minor typo in reviewer output
 [2025-10-01 16:02:44] Trained local cache on sample repo
+[2025-10-02 15:13:05] Added support for multi-directory scanning
