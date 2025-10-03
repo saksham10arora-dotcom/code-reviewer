@@ -332,3 +332,4 @@ Code Review Agent Training Log
 [2025-10-03 13:21:31] Added unit tests for parser
 [2025-10-03 14:15:15] Refactored internal review loop
 [2025-10-03 08:18:14] Cleanup of redundant imports
+[2025-10-03 14:07:53] Added support for multi-directory scanning
