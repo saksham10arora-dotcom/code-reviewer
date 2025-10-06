@@ -339,3 +339,4 @@ Code Review Agent Training Log
 [2025-10-05 12:41:43] Cleanup of redundant imports
 [2025-10-06 10:54:34] Improved error handling for large files
 [2025-10-06 19:53:45] Refined prompt heuristics for better bug detection
+[2025-10-06 20:35:13] Updated README with better examples
