@@ -338,3 +338,4 @@ Code Review Agent Training Log
 [2025-10-04 09:41:35] Upgraded dependencies in requirements.txt
 [2025-10-05 12:41:43] Cleanup of redundant imports
 [2025-10-06 10:54:34] Improved error handling for large files
+[2025-10-06 19:53:45] Refined prompt heuristics for better bug detection
