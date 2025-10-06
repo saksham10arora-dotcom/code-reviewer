@@ -341,3 +341,4 @@ Code Review Agent Training Log
 [2025-10-06 19:53:45] Refined prompt heuristics for better bug detection
 [2025-10-06 20:35:13] Updated README with better examples
 [2025-10-06 15:08:17] Updated README with better examples
+[2025-10-06 20:31:56] Refined prompt heuristics for better bug detection
