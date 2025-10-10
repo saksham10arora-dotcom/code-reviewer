@@ -359,3 +359,4 @@ Code Review Agent Training Log
 [2025-10-10 12:26:32] Refined prompt heuristics for better bug detection
 [2025-10-10 20:48:07] Trained local cache on sample repo
 [2025-10-10 21:58:02] Minor UI tweaks to console output
+[2025-10-10 08:56:24] Added support for multi-directory scanning
