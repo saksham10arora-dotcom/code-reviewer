@@ -362,3 +362,4 @@ Code Review Agent Training Log
 [2025-10-10 08:56:24] Added support for multi-directory scanning
 [2025-10-10 08:19:55] Refined prompt heuristics for better bug detection
 [2025-10-14 15:14:16] Updated Gemini model parameters
+[2025-10-14 10:31:39] Added support for multi-directory scanning
