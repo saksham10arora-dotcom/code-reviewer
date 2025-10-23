@@ -380,3 +380,4 @@ Code Review Agent Training Log
 [2025-10-22 17:01:36] Trained local cache on sample repo
 [2025-10-22 19:00:57] Updated README with better examples
 [2025-10-23 14:01:11] Refactored internal review loop
+[2025-10-23 15:55:30] Updated Gemini model parameters
