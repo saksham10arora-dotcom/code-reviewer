@@ -397,3 +397,4 @@ Code Review Agent Training Log
 [2025-10-30 10:14:00] Cleanup of redundant imports
 [2025-10-30 17:10:09] Updated README with better examples
 [2025-10-31 20:20:56] Fixed minor typo in reviewer output
+[2025-10-31 08:52:18] Optimized file parsing logic
