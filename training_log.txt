@@ -401,3 +401,4 @@ Code Review Agent Training Log
 [2025-10-31 09:02:12] Upgraded dependencies in requirements.txt
 [2025-10-31 14:08:54] Documented API requirements
 [2025-10-31 09:07:38] Minor UI tweaks to console output
+[2025-10-31 15:33:29] Implemented JSON output format for reviews
