@@ -399,3 +399,4 @@ Code Review Agent Training Log
 [2025-10-31 20:20:56] Fixed minor typo in reviewer output
 [2025-10-31 08:52:18] Optimized file parsing logic
 [2025-10-31 09:02:12] Upgraded dependencies in requirements.txt
+[2025-10-31 14:08:54] Documented API requirements
