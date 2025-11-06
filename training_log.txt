@@ -412,3 +412,4 @@ Code Review Agent Training Log
 [2025-11-05 08:04:34] Upgraded dependencies in requirements.txt
 [2025-11-06 11:16:23] Integrated logging framework
 [2025-11-06 17:43:47] Upgraded dependencies in requirements.txt
+[2025-11-06 08:38:51] Refined prompt heuristics for better bug detection
