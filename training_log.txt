@@ -414,3 +414,4 @@ Code Review Agent Training Log
 [2025-11-06 17:43:47] Upgraded dependencies in requirements.txt
 [2025-11-06 08:38:51] Refined prompt heuristics for better bug detection
 [2025-11-06 15:50:41] Improved error handling for large files
+[2025-11-06 14:42:41] Trained local cache on sample repo
