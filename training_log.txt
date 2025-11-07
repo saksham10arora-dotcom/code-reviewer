@@ -417,3 +417,4 @@ Code Review Agent Training Log
 [2025-11-06 14:42:41] Trained local cache on sample repo
 [2025-11-07 14:32:59] Updated README with better examples
 [2025-11-07 18:33:04] Synchronized environment variables
+[2025-11-07 18:40:20] Minor UI tweaks to console output
