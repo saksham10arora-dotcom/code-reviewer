@@ -423,3 +423,4 @@ Code Review Agent Training Log
 [2025-11-09 18:34:01] Updated README with better examples
 [2025-11-10 15:39:54] Implemented JSON output format for reviews
 [2025-11-10 18:17:57] Fixed minor typo in reviewer output
+[2025-11-10 15:32:24] Refactored internal review loop
