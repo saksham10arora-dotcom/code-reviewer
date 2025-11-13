@@ -428,3 +428,4 @@ Code Review Agent Training Log
 [2025-11-12 12:48:41] Added unit tests for parser
 [2025-11-12 10:34:12] Improved error handling for large files
 [2025-11-13 08:59:40] Improved error handling for large files
+[2025-11-13 16:56:24] Refined prompt heuristics for better bug detection
