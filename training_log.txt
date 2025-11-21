@@ -438,3 +438,4 @@ Code Review Agent Training Log
 [2025-11-21 18:54:45] Cleanup of redundant imports
 [2025-11-21 22:23:29] Upgraded dependencies in requirements.txt
 [2025-11-21 11:42:01] Documented API requirements
+[2025-11-21 12:23:47] Refined prompt heuristics for better bug detection
