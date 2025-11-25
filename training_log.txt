@@ -440,3 +440,4 @@ Code Review Agent Training Log
 [2025-11-21 11:42:01] Documented API requirements
 [2025-11-21 12:23:47] Refined prompt heuristics for better bug detection
 [2025-11-25 11:24:06] Added unit tests for parser
+[2025-11-25 15:54:50] Added support for multi-directory scanning
