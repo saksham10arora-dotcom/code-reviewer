@@ -453,3 +453,4 @@ Code Review Agent Training Log
 [2025-11-27 08:23:38] Fixed minor typo in reviewer output
 [2025-12-01 13:20:02] Fixed minor typo in reviewer output
 [2025-12-01 13:43:46] Minor UI tweaks to console output
+[2025-12-01 09:33:45] Added unit tests for parser
