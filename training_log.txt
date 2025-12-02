@@ -456,3 +456,4 @@ Code Review Agent Training Log
 [2025-12-01 09:33:45] Added unit tests for parser
 [2025-12-02 08:59:59] Optimized file parsing logic
 [2025-12-02 14:55:56] Updated README with better examples
+[2025-12-02 14:08:36] Added support for multi-directory scanning
