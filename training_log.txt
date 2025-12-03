@@ -460,3 +460,4 @@ Code Review Agent Training Log
 [2025-12-02 13:51:34] Added support for multi-directory scanning
 [2025-12-02 17:50:24] Refined prompt heuristics for better bug detection
 [2025-12-02 11:49:04] Synchronized environment variables
+[2025-12-03 15:03:56] Refined prompt heuristics for better bug detection
