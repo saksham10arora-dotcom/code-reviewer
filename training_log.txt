@@ -462,3 +462,4 @@ Code Review Agent Training Log
 [2025-12-02 11:49:04] Synchronized environment variables
 [2025-12-03 15:03:56] Refined prompt heuristics for better bug detection
 [2025-12-03 09:49:55] Refactored internal review loop
+[2025-12-04 22:55:45] Added unit tests for parser
