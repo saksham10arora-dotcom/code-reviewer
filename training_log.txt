@@ -477,3 +477,4 @@ Code Review Agent Training Log
 [2025-12-08 11:12:06] Refactored internal review loop
 [2025-12-08 13:02:55] Refined prompt heuristics for better bug detection
 [2025-12-09 09:40:12] Adjusted temperature for model responses
+[2025-12-10 09:43:18] Implemented JSON output format for reviews
