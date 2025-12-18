@@ -502,3 +502,4 @@ Code Review Agent Training Log
 [2025-12-17 12:24:06] Fixed minor typo in reviewer output
 [2025-12-17 14:13:05] Implemented JSON output format for reviews
 [2025-12-18 17:08:46] Trained local cache on sample repo
+[2025-12-18 13:23:52] Integrated logging framework
