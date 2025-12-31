@@ -535,3 +535,4 @@ Code Review Agent Training Log
 [2025-12-30 19:09:31] Improved error handling for large files
 [2025-12-31 10:18:15] Added support for multi-directory scanning
 [2025-12-31 18:07:24] Added unit tests for parser
+[2025-12-31 15:57:09] Documented API requirements
