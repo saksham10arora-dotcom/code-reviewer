@@ -551,3 +551,4 @@ Code Review Agent Training Log
 [2026-01-02 14:36:50] Updated Gemini model parameters
 [2026-01-02 17:34:50] Added unit tests for parser
 [2026-01-02 18:21:42] Updated README with better examples
+[2026-01-02 16:51:10] Improved error handling for large files
