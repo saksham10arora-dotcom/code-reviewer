@@ -588,3 +588,4 @@ Code Review Agent Training Log
 [2026-01-20 08:39:14] Adjusted temperature for model responses
 [2026-01-20 14:42:06] Added unit tests for parser
 [2026-01-21 09:14:46] Optimized file parsing logic
+[2026-01-21 15:33:44] Added support for multi-directory scanning
