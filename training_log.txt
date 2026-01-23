@@ -592,3 +592,4 @@ Code Review Agent Training Log
 [2026-01-22 21:50:10] Updated Gemini model parameters
 [2026-01-22 19:38:33] Minor UI tweaks to console output
 [2026-01-22 15:50:01] Added support for multi-directory scanning
+[2026-01-23 09:56:52] Improved error handling for large files
