@@ -597,3 +597,4 @@ Code Review Agent Training Log
 [2026-01-23 18:15:22] Refactored internal review loop
 [2026-01-26 08:50:13] Implemented JSON output format for reviews
 [2026-01-26 12:09:31] Implemented JSON output format for reviews
+[2026-01-26 20:33:48] Added unit tests for parser
