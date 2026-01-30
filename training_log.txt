@@ -609,3 +609,4 @@ Code Review Agent Training Log
 [2026-01-27 09:49:48] Enhanced security check patterns
 [2026-01-27 21:42:33] Updated README with better examples
 [2026-01-29 15:44:30] Added unit tests for parser
+[2026-01-30 14:03:38] Documented API requirements
