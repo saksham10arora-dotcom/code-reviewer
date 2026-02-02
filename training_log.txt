@@ -626,3 +626,4 @@ Code Review Agent Training Log
 [2026-01-30 13:09:24] Optimized file parsing logic
 [2026-02-01 10:22:46] Optimized file parsing logic
 [2026-02-01 22:38:30] Updated README with better examples
+[2026-02-02 21:34:17] Documented API requirements
