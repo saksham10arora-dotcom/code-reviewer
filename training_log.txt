@@ -641,3 +641,4 @@ Code Review Agent Training Log
 [2026-02-05 18:54:08] Enhanced security check patterns
 [2026-02-05 19:43:42] Improved error handling for large files
 [2026-02-06 20:50:19] Implemented JSON output format for reviews
+[2026-02-06 19:04:25] Updated README with better examples
