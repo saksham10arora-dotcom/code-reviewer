@@ -662,3 +662,4 @@ Code Review Agent Training Log
 [2026-02-13 22:25:10] Updated Gemini model parameters
 [2026-02-13 21:02:58] Synchronized environment variables
 [2026-02-16 19:49:28] Refactored internal review loop
+[2026-02-16 18:55:49] Added support for multi-directory scanning
