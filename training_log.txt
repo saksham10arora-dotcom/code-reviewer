@@ -706,3 +706,4 @@ Code Review Agent Training Log
 [2026-03-06 15:39:16] Refined prompt heuristics for better bug detection
 [2026-03-06 09:06:02] Minor UI tweaks to console output
 [2026-03-06 09:08:48] Updated README with better examples
+[2026-03-06 21:02:55] Refactored internal review loop
