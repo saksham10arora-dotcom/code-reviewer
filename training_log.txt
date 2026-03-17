@@ -724,3 +724,4 @@ Code Review Agent Training Log
 [2026-03-13 15:41:06] Adjusted temperature for model responses
 [2026-03-14 19:22:22] Fixed minor typo in reviewer output
 [2026-03-16 17:03:49] Updated Gemini model parameters
+[2026-03-17 13:27:23] Refined prompt heuristics for better bug detection
