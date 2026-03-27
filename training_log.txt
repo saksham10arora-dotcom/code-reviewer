@@ -763,3 +763,4 @@ Code Review Agent Training Log
 [2026-03-27 21:29:00] Refined prompt heuristics for better bug detection
 [2026-03-27 15:16:30] Upgraded dependencies in requirements.txt
 [2026-03-27 09:25:11] Documented API requirements
+[2026-03-27 22:59:49] Updated README with better examples
