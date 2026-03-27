@@ -760,3 +760,4 @@ Code Review Agent Training Log
 [2026-03-24 09:21:18] Synchronized environment variables
 [2026-03-26 13:59:04] Documented API requirements
 [2026-03-26 20:29:15] Updated README with better examples
+[2026-03-27 21:29:00] Refined prompt heuristics for better bug detection
