@@ -794,3 +794,4 @@ Code Review Agent Training Log
 [2026-04-08 21:26:50] Documented API requirements
 [2026-04-08 19:08:49] Upgraded dependencies in requirements.txt
 [2026-04-08 20:31:19] Refined prompt heuristics for better bug detection
+[2026-04-08 10:26:18] Minor UI tweaks to console output
