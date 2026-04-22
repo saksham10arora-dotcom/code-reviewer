@@ -804,3 +804,4 @@ Code Review Agent Training Log
 [2026-04-14 20:16:25] Trained local cache on sample repo
 [2026-04-14 09:48:34] Added support for multi-directory scanning
 [2026-04-22 17:57:39] Refined prompt heuristics for better bug detection
+[2026-04-22 14:35:11] Minor UI tweaks to console output
