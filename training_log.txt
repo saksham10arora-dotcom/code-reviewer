@@ -811,3 +811,4 @@ Code Review Agent Training Log
 [2026-04-23 16:18:37] Trained local cache on sample repo
 [2026-04-23 22:54:30] Enhanced security check patterns
 [2026-04-23 17:13:49] Minor UI tweaks to console output
+[2026-04-23 08:15:48] Refined prompt heuristics for better bug detection
