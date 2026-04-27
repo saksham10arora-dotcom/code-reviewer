@@ -813,3 +813,4 @@ Code Review Agent Training Log
 [2026-04-23 17:13:49] Minor UI tweaks to console output
 [2026-04-23 08:15:48] Refined prompt heuristics for better bug detection
 [2026-04-27 19:43:28] Updated README with better examples
+[2026-04-27 13:02:01] Adjusted temperature for model responses
