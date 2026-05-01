@@ -831,3 +831,4 @@ Code Review Agent Training Log
 [2026-04-30 10:26:52] Refactored internal review loop
 [2026-05-01 11:40:03] Updated Gemini model parameters
 [2026-05-01 17:25:52] Initial prototype of review agent
+[2026-05-01 10:01:14] Refined prompt heuristics for better bug detection
