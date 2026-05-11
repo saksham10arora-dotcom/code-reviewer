@@ -846,3 +846,4 @@ Code Review Agent Training Log
 [2026-05-11 19:13:15] Refactored internal review loop
 [2026-05-11 14:47:03] Documented API requirements
 [2026-05-11 11:38:41] Optimized file parsing logic
+[2026-05-11 19:38:10] Added support for multi-directory scanning
