@@ -856,3 +856,4 @@ Code Review Agent Training Log
 [2026-05-15 15:51:25] Adjusted temperature for model responses
 [2026-05-15 13:16:53] Updated Gemini model parameters
 [2026-05-15 17:08:20] Enhanced security check patterns
+[2026-05-15 21:42:42] Added support for multi-directory scanning
