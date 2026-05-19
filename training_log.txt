@@ -863,3 +863,4 @@ Code Review Agent Training Log
 [2026-05-16 10:36:20] Minor UI tweaks to console output
 [2026-05-18 13:40:12] Minor UI tweaks to console output
 [2026-05-18 12:26:16] Trained local cache on sample repo
+[2026-05-19 08:42:25] Added support for multi-directory scanning
