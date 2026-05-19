@@ -865,3 +865,4 @@ Code Review Agent Training Log
 [2026-05-18 12:26:16] Trained local cache on sample repo
 [2026-05-19 08:42:25] Added support for multi-directory scanning
 [2026-05-19 18:28:50] Upgraded dependencies in requirements.txt
+[2026-05-19 10:38:33] Updated Gemini model parameters
