@@ -888,3 +888,4 @@ Code Review Agent Training Log
 [2026-05-28 11:52:06] Optimized file parsing logic
 [2026-05-29 08:15:55] Added unit tests for parser
 [2026-05-29 19:59:09] Fixed minor typo in reviewer output
+[2026-05-29 14:18:48] Documented API requirements
