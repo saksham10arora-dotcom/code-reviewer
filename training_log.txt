@@ -895,3 +895,4 @@ Code Review Agent Training Log
 [2026-06-01 22:13:59] Implemented JSON output format for reviews
 [2026-06-01 08:01:27] Added support for multi-directory scanning
 [2026-06-01 17:03:21] Upgraded dependencies in requirements.txt
+[2026-06-01 22:27:14] Added unit tests for parser
