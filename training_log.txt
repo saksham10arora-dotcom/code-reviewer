@@ -902,3 +902,4 @@ Code Review Agent Training Log
 [2026-06-02 13:37:06] Improved error handling for large files
 [2026-06-05 19:19:39] Synchronized environment variables
 [2026-06-06 19:50:49] Updated Gemini model parameters
+[2026-06-08 14:41:04] Added support for multi-directory scanning
